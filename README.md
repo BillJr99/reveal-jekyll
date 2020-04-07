@@ -73,7 +73,7 @@ Content of the Basement slide in markdown
 
 #### Config
 
-Configure Reveal.js in teh `_config.yml`:
+Configure Reveal.js in the `_config.yml`:
 
 ```yml
 reveal:

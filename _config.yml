@@ -20,6 +20,9 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# Analytics  
+google_analytics         : "UA-24052857-1"
+
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
